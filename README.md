@@ -7,7 +7,7 @@ Looking forward to create cool projects and expand my knowledge in coding 👾
 ___
 
 <div style="display: flex; align-items: center;">
-    <img src="https://vignette.wikia.nocookie.net/undertale/images/9/92/Giphy.gif/revision/latest?cb=20160614134158&path-prefix=pl" width="220" style="margin-right: 150px;"/>
+    <img src="https://vignette.wikia.nocookie.net/undertale/images/9/92/Giphy.gif/revision/latest?cb=20160614134158&path-prefix=pl" width="220" style="margin-right: 10px;"/>
     <div style="text-align: center;">
       🌺 a simple techy girl 🌺 <br>
       📚 studying and working part-time 💻 <br>
