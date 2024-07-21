@@ -1,16 +1,18 @@
-## Hi there 👋
+## Bezeby here! aka. Bee 🐝	
 
-<!--
-**Bezeby/Bezeby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌺 _a simple techy girl_ 🌺\
+📚 studying and working part-time 💻
 
-Here are some ideas to get you started:
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Hi, I'm Bezeby 💜 
+Looking forward to create cool projects and expand my knowledge in coding.
+
+#### Main goal? To have fun and become a _menace_ ✨ <sub> jk... <sub> maybe.. <sup> 👀 </sup> </sub> </sub>
+
+
+![bibble](https://i0.wp.com/c.tenor.com/dnqHVp5NG0sAAAAM/gualichetas-gualicheta.gif)
+
+
+##### p.s. >> _I don't sting_
+___
