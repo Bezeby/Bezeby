@@ -13,7 +13,8 @@ Looking forward to create cool projects and expand my knowledge in coding.
 
 ![bibble](https://i0.wp.com/c.tenor.com/dnqHVp5NG0sAAAAM/gualichetas-gualicheta.gif)
 
-<img align="center" src="https://i0.wp.com/c.tenor.com/dnqHVp5NG0sAAAAM/gualichetas-gualicheta.gif" />
+<div style="text-align:center"><img src="https://i0.wp.com/c.tenor.com/dnqHVp5NG0sAAAAM/gualichetas-gualicheta.gif" /></div>
+
 
 ##### p.s. >> _I don't sting_
 ___
