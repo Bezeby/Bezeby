@@ -34,8 +34,7 @@ ___
 
 <a href=""> 
   <img src="https://spotify-bezeby.vercel.app/api?theme=dark" alt="Current Spotify Song"
-  width="350"
-  style="background: transparent;">
+  width="350">
 </a>
 
 
