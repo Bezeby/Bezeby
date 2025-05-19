@@ -8,7 +8,7 @@ ___
 <br>
 <br>
 <p align="center"> 
-    <em> 🌺 a simple techy girl 🌺 </em> <br> 
+    <em> 🌺 a simple techie girl 🌺 </em> <br> 
     📚💻 studying and working part-time 💻📚  <br>
     <samp> 🎮 silly gamer 🎮 </samp>
   </p>
